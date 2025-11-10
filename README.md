@@ -1,16 +1,86 @@
-# h1d023011_tugas7
+# 🌸 Blossom App - Flutter Project  
+**Tugas 7 Pemrograman Mobile**  
+**Nama:** Revalina Fidiya Anugrah  
+**NIM:** H1D023011  
+**Shift Awal Praktikum:** D  
+**Shift Akhir Praktikum:** B  
 
-A new Flutter project.
+📦 **Repository GitHub:**  
+👉 [https://github.com/revalinafa/H1D023011_Tugas7.git](https://github.com/revalinafa/H1D023011_Tugas7.git)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Deskripsi Proyek
 
-A few resources to get you started if this is your first Flutter project:
+**Blossom App** adalah aplikasi Flutter bertema **pink blossom** yang menampilkan fitur:
+- Sistem **Login dengan Local Storage (SharedPreferences)**
+- **Side Menu (Drawer)** dengan navigasi antar halaman
+- **Routing antar page**
+- **Splash Screen animasi**
+- Tampilan UI elegan dan modern dengan **nuansa pink**
+- Identitas pembuat di setiap halaman
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aplikasi ini dikembangkan untuk memenuhi **Tugas 7 Pemrograman Mobile**, dengan konsep yang lebih **kreatif dan kompleks** dibanding modul dasar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎀 Fitur Utama
+
+| Fitur | Deskripsi |
+|-------|------------|
+| **Login Page** | Menggunakan akun `blossom@mail.com` dan password `flower123` untuk masuk. |
+| **Dashboard Page** | Menampilkan ucapan selamat datang dan identitas pengguna. |
+| **Profile Page** | Menampilkan identitas pembuat aplikasi. |
+| **Settings Page** | Menampilkan pengaturan dasar aplikasi. |
+| **Side Menu (Drawer)** | Navigasi cepat antar halaman. |
+| **Splash Screen Animasi** | Efek fade-in elegan dengan tema pink blossom. |
+| **Local Storage** | Menyimpan email pengguna menggunakan `SharedPreferences`. |
+
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/revalinafa/H1D023011_Tugas7.git
+   ```
+
+2. Masuk ke folder proyek:
+   ```bash
+   cd H1D023011_Tugas7
+   ```
+
+3. Jalankan perintah untuk mengunduh dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Jalankan aplikasi di emulator atau device:
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 🔑 Akun Login Default
+
+| Email | Password |
+|--------|-----------|
+| `blossom@mail.com` | `flower123` |
+
+---
+
+## 📸 Preview Tampilan (opsional)
+
+
+
+---
+
+## 💬 Catatan
+
+> Proyek ini dibuat sebagai bagian dari **Tugas 7 Pemrograman Mobile**.  
+> Seluruh desain dan logika dibuat secara **mandiri dan orisinal**, dengan tujuan menunjukkan kreativitas dan pemahaman terhadap Flutter, Routing, Side Menu, Login, serta Local Storage.
+
+---
+
